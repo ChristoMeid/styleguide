@@ -21,24 +21,51 @@ body {
     min-height: 100px;
   }
   
-  .cool-blue {
-    background-color: #2d5dcc;
-    color: #fff;
-  }
-  
-  .pink {
-    background-color: #d957d9;
+  .yang-mist {
+    background-color: #eee8dd;
     color: #000;
   }
   
-  .mint-green {
-    background-color: #4fe0b0;
+  .whisky-sour {
+    background-color: #f0a930;
+    color: #000;
   }
   
-  .beige {
-    background-color: #efd9ca;
+  .maniac-mansion {
+    background-color: #013a5b;
+    color: #eee8dd;
   }
   
+  .bacon-strips {
+    background-color: #da3c2f;
+    color: #eee8dd;
+  }
+
+  .black-wash {
+    background-color: #0e0c0b;
+    color: #eee8dd;
+  }
+  
+  .butternut-squash {
+    background-color: #fb7007;
+    color: #eee8dd;
+  }
+  
+  .anchovy {
+    background-color: #736f68;
+    color: #eee8dd;
+  }
+
+  .snowflake {
+    background-color: #edf1f0;
+    color: #000;
+  }
+
+  .rusty-heart {
+    background-color: #a0443a;
+    color: #eee8dd;
+  }
+
   .font-panel {
     width: 45%;
     display: inline-block;
